@@ -89,4 +89,4 @@ Special thanks to [@Dhaval Patel](https://www.linkedin.com/in/dhavalpatel/) and 
 ---
 
 > This project is part of the **Codebasics Power BI Bootcamp**  
-> 📅 Completed: July 2024 | 💼 Role: Aspiring Data Analyst
+> 📅 Completed: July 2025 | 💼 Role: Aspiring Data Analyst
